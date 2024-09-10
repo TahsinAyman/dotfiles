@@ -1,0 +1,23 @@
+import = [
+  "/home/tahsin/.local/share/pnpm/global/5/.pnpm/alacritty-themes@6.0.2/node_modules/alacritty-themes/themes/Mocha.dark.toml"
+]
+shell = "zsh"
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+blur = true
+
+  [window.padding]
+  x = 10
+  y = 10
+
+[font]
+size = 19
+
+  [font.normal]
+  family = "JetBrainsMono Nerd Font Mono"
+
+[cursor.style]
+shape = "Beam"
